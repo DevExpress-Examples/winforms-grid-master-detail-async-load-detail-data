@@ -6,13 +6,13 @@
 
 # WinForms Data Grid - Asynchronous detail view loading
 
-This example demonstrates how to load detail data on a background thread to avoid freezing the UI. 
+This example demonstrates how to load detail data in a background thread to avoid freezing the UI. 
 
 ![WinForms Data Grid - Asynchronous detail view loading](https://raw.githubusercontent.com/DevExpress-Examples/master-detail-how-to-load-detail-view-data-asynchronously-e2745/13.1.4%2B/media/winforms-grid-async-master-detail.gif)
 
 > **Note**
 >
-> Detail views are ititially empty. Detail data is loaded dynamicaly when the user expands a master row. The [OptionsDetail.AllowExpandEmptyDetails](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.Views.Grid.GridOptionsDetail.AllowExpandEmptyDetails) property is set to **true** to allow expand master rows when details have no data.
+> Detail views are initially empty. Detail data is loaded dynamically when a user expands a master row. The [OptionsDetail.AllowExpandEmptyDetails](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.Views.Grid.GridOptionsDetail.AllowExpandEmptyDetails) property is set to **true** to allow users to expand master rows when details have no data.
 
 
 ## Files to Review
