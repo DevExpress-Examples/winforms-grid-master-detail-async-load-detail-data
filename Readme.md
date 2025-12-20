@@ -9,7 +9,7 @@
 
 This example demonstrates how to load detail data in a background thread to avoid freezing the UI. 
 
-![WinForms Data Grid - Asynchronous detail view loading](https://raw.githubusercontent.com/DevExpress-Examples/master-detail-how-to-load-detail-view-data-asynchronously-e2745/13.1.4%2B/media/winforms-grid-async-master-detail.gif)
+![WinForms Data Grid - Asynchronous detail view loading](media/winforms-grid-async-master-detail.gif)
 
 > **Note**
 >
@@ -33,3 +33,4 @@ This example demonstrates how to load detail data in a background thread to avoi
 
 (you will be redirected to DevExpress.com to submit your response)
 <!-- feedback end -->
+
